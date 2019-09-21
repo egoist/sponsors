@@ -10,4 +10,4 @@ Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, i
 
 ---
 
-This repository is inspired by [tj/sponsors](https://github.com/tj/sponsors).
+<sup>This repository is inspired by [tj/sponsors](https://github.com/tj/sponsors).</sup>
