@@ -6,7 +6,7 @@ These can be anything, a package that you need for project, a desktop or web app
 
 ## Voting
 
-Leave a :thumbsup: to vote. Resulting priorities will be filtered by sponsors, if you'd like to see work done on any of these projects, or my existing software, consider [supporting](https://patreon.com/egoist) me.
+[Leave a :thumbsup: to vote](https://github.com/egoist/sponsors/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc). Resulting priorities will be filtered by sponsors, if you'd like to see work done on any of these projects, or my existing software, consider [supporting](https://patreon.com/egoist) me.
 
 ---
 
