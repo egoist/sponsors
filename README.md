@@ -1,4 +1,4 @@
-My [Patreon sponsors](https://patreon.com/egoist) can suggest and vote for their favorite project ideas to help prioritize them.
+Everyone can suggest and vote for their favorite project ideas, if you are my [Patreon sponsor](https://patreon.com/egoist) your vote will weigh more.
 
 ## Suggestions
 
