@@ -1,3 +1,6 @@
+> # 💥 Moved to [my forum](https://egoist.chat/tags/project-idea).
+
+
 Everyone can suggest and vote for their favorite project ideas, if you are my [Patreon sponsor](https://patreon.com/egoist) your vote will weigh more.
 
 ## Suggestions
